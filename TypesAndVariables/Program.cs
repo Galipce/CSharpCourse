@@ -11,7 +11,7 @@ namespace TypesAndVariables
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Wrold");
-
+            
             Console.ReadLine();
         }
     }
