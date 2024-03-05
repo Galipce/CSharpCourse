@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AC2D2F23-1198-49AD-AAFD-ED9184717CFC}</ProjectGuid>
+    <ProjectGuid>{06BDF97D-4C4C-4B56-BD8F-624BEE378703}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Arrays</RootNamespace>
-    <AssemblyName>Arrays</AssemblyName>
+    <RootNamespace>Inheritance</RootNamespace>
+    <AssemblyName>Inheritance</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
